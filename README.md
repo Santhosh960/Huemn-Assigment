@@ -70,43 +70,7 @@ Bundler / Build Tool: Webpack (via Create React App)
 
 Deployment: Vercel
 
-Getting Started
-Prerequisites
-Before you begin, ensure you have:
 
-Node.js (version p.s. latest LTS recommended)
-
-npm or yarn
-
-Installation
-Clone the repo:
-
-git clone https://github.com/ibrahim9492/Huemn_Interactive_Assignment.git
-
-cd Huemn_Interactive_Assignment
-
-Install dependencies:
-
-npm install
-
-Available Scripts
-In the project directory, you can run:
-
-Script Description
-
-npm start Runs the app in development mode.
-
-GitHub
-
-npm test Launches the test runner in interactive watch mode.
-
-GitHub
-
-npm run build Builds the app for production to the build folder. Minified, optimized, filenames include hashes.
-
-GitHub
-
-npm run eject Ejects CRA configuration. Warning: This is irreversible. Use only if you need full control.
 
 Folder Structure
 Huemn_Interactive_Assignment/
